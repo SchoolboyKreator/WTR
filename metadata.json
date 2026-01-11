@@ -1,0 +1,5 @@
+{
+  "name": "AI Watermark Remover",
+  "description": "An AI-powered application to remove watermarks from the bottom-right corner of images using Gemini, with user-adjustable masking for seamless blending.",
+  "requestFramePermissions": []
+}
